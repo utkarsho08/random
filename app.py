@@ -50,7 +50,7 @@ def main():
     
     st.markdown("""
     ---
-    👉 **Please use the sidebar to navigate to the Loan Prediction module to test the model!**
+    **Please use the sidebar to navigate to the Loan Prediction module to test the model!**
     """)
 
 if __name__ == "__main__":
